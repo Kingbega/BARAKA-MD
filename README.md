@@ -57,7 +57,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Tosh205/SUPER-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Barakabegaa/BARAKA-MD-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. Get session id by (SCANNING QR1)
@@ -108,6 +108,8 @@
 1. If You don't have a account in Replit. Create a account.
     <br>
 <a href='https://mogenius.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=genius'/></a>
+
+
 2. Now Deploy
     <br>
 <a href='https://mogenius.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=genius'/></a>
@@ -124,6 +126,7 @@
     <br>
 <a href='https://replit.com/github/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-IMPORT-black?style=for-the-badge&logo=replit'/></a>
 
+#### DEPLOY TO OKTETO
 
 1. If You don't have a account in Okteto. Create a account.
     <br>
