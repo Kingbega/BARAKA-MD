@@ -51,6 +51,7 @@
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 1.0        |
 | Auto/View once commands     | remove photo and video from lock            | ✅           | 1.0    |
 
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -160,18 +161,6 @@
     <br>
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
 
-
-#### DEPLOY ON MOGENIUS
-
-
-1. If You don't have a account in Replit. Create a account.
-    <br>
-<a href='https://mogenius.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=genius'/></a>
-
-
-2. Now Deploy
-    <br>
-<a href='https://mogenius.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=genius'/></a>
 
 
 #### DEPLOY TO REPLIT 
