@@ -13,7 +13,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD-V1+MADE+IN+TANZANIA🇹🇿❤️🇹🇿+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD-V1+MADE+IN+TANZANIA+" alt="Typing SVG" /></a>
 
 
 
@@ -38,16 +38,16 @@
 
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
-| Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 3.0        |
-| AI Chat Bot                      | Bot Can Reply To Questions                              | ✅           | 3.0        |
-| Downloader Commands              | Download various types of content from the internet     | ✅           | 3.0        |
-| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 3.0        |
-| Logo Commands                    | Generate logos using specialized commands               | ✅           | 3.0        |
-| Anime Commands                   | Explore anime-related commands and features             | ✅           | 3.0        |
-| Bot Cantrol Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           | 3.0        |
-| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 3.0        |
-| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 3.0        |
-| Auto/View once commands     | remove photo and video from lock            | ✅           | 3.0    |
+| Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 1.0        |
+| AI Chat Bot                      | Bot Can Reply To Questions                              | ✅           | 1.0        |
+| Downloader Commands              | Download various types of content from the internet     | ✅           | 1.0        |
+| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 1.0        |
+| Logo Commands                    | Generate logos using specialized commands               | ✅           | 1.0        |
+| Anime Commands                   | Explore anime-related commands and features             | ✅           | 1.0        |
+| Bot Cantrol Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           | 1.0        |
+| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 1.0        |
+| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 1.0        |
+| Auto/View once commands     | remove photo and video from lock            | ✅           | 1.0    |
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -147,24 +147,13 @@
 <a href='https://coolify.io/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
 
 
-#### DEPLOY TO MONGENIUS
-
-
-1. If You don't have a account in Mongenius. Create a account.
-    <br>
-<a href='https://studio.mogenius.com/user/registration' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
-
-2. Now Deploy
-    <br>
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
-
 
 #### DEPLOY TO RENDER 
 
 
 1. If You don't have a account in Render. Create a account.
     <br>
-<a href='https://dashboard.render.com/register' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
+<a href='https://dashboard.render.com/register' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=orange&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
 
 2. Now Deploy
     <br>
