@@ -13,8 +13,7 @@
  
 
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD+MADE+IN+TANZANIA🇹🇿❤️🇹🇿+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD-V1+MADE+IN+TANZANIA🇹🇿❤️🇹🇿+" alt="Typing SVG" /></a>
 
 
 
@@ -24,13 +23,11 @@
 
    <p align="left">
   <a href="https://github.com/Barakabegaa/BARAKA-MD-V1/fork">
-    <img src="https://img.shields.io/github/forks/Barakabegaa/BARAKA-MD-V2?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Barakabegaa/BARAKA-MD-V1?label=Fork&style=social">
   <p align="left"> 
   <a href="https://github.com/Barakabegaa/BARAKA-MD-V1/stargazers">
     <img src="https://img.shields.io/github/stars/Barakabegaa/BARAKA-MD-V1?style=social">
       
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -160,6 +157,18 @@
 2. Now Deploy
     <br>
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
+
+
+#### DEPLOY TO RENDER 
+
+
+1. If You don't have a account in Render. Create a account.
+    <br>
+<a href='https://dashboard.render.com/register' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
+
+2. Now Deploy
+    <br>
+<a href='https://render.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
