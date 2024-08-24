@@ -1,8 +1,8 @@
 {
-  "name":"BARAKA-MD-V2",
+  "name":"BARAKA-MD-V1",
   "description":"Best whatsapp bot developed by Baraka bega+Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/181690a882c6cdc172e31.jpg",
+  "logo":"https://telegra.ph/file/e98ca927f62b4d4e9ba87.jpg",
   "repository":"https://github.com/ibraahadam/BARAKA-MD-V3",
   "succes_url":"/",
   "stack":"container",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BARAKA-MD-V2",
+      "value":"BARAKA-MD-V1",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/181690a882c6cdc172e31.jpg",
+      "value":"https://telegra.ph/file/e98ca927f62b4d4e9ba87.jpg",
       "required":false
        
      },
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐌𝐫 𝐛𝐚𝐫𝐚𝐤𝐚"
+    "value": "Mr baraka"
   },
     "NUMERO_OWNER":
   {
