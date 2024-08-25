@@ -196,14 +196,14 @@
 - Ibrahim-Adams
 - Who Helping Me
 - Who Using This Bot
-- Text Me On WhatsApp [Wa-number](wa.me//255762190568)
+- Text Me On WhatsApp [Wa-number](https://wa.me/255762190568)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## 🌴 *`BOT-OWNER`*
-<a href="https://github.com/Barakabegaa"><img src="https://github.com/Barakabegaa.png" width="250" height="250" alt="Baraka"/></a>
+<a href="https://github.com/Kingbega"><img src="https://github.com/Kingbega.png" width="250" height="250" alt="Baraka"/></a>
 
 
 ## 🌴 *`MAIN-DEV`*
