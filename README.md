@@ -21,12 +21,12 @@
 
 
 
-   <p align="left">
-  <a href="https://github.com/Barakabegaa/BARAKA-MD-V1/fork">
-    <img src="https://img.shields.io/github/forks/Barakabegaa/BARAKA-MD-V1?label=Fork&style=social">
+ <p align="left">
+  <a href="https://github.com/Kingbega/BARAKA-MD-V1/fork">
+    <img src="https://img.shields.io/github/forks/Kingbega/BARAKA-MD-V1?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/Barakabegaa/BARAKA-MD-V1/stargazers">
-    <img src="https://img.shields.io/github/stars/Barakabegaa/BARAKA-MD-V1?style=social">
+  <a href="https://github.com/Kingbega/BARAKA-MD-V1/stargazers">
+    <img src="https://img.shields.io/github/stars/Kingbega/BARAKA-MD-V1?style=social">
       
 
 
