@@ -217,4 +217,4 @@
 
 
 ## 🎥*`WATCH TUTORIAL`*
-* [![TIKTOK][https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white](tiktok.com/@barakachachabega)
+[https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white](tiktok.com/@barakachachabega)
