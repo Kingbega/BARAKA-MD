@@ -216,6 +216,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## 🎥 *`WATCHTUTORIAL`]
-## Watch Tutorial videos.
-* [![TIKTOK](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](tiktok.com/@barakachachabega)
+## 🎥 _`WATCHTUTORIAL`_]
+
+[![TIKTOK](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](tiktok.com/@barakachachabega)
