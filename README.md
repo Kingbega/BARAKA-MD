@@ -1,19 +1,19 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center">                                              𝐁𝐀𝐑𝐀𝐊𝐀-𝐌𝐃-𝐕1 
+<p align="center">                                              YESSER-𝐌𝐃-X8 
 
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h">
-    <img alt=Support height="380" src="https://telegra.ph/file/346b2fb749a7255defe87.jpg"> 
+  <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G">
+    <img alt=Support height="380" src="https://telegra.ph/file/37882de26f9ffc60043ef.jpg"> 
     </p>
  
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD+MADE+IN+TANZANIA+🇹🇿♥️🇹🇿" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+YESSER-MD+MADE+IN+TANZANIA+🇹🇿♥️🇹🇿" alt="Typing SVG" /></a>
 
 
 
@@ -22,18 +22,19 @@
 
 
  <p align="left">
-  <a href="https://github.com/Kingbega/BARAKA-MD-V1/fork">
-    <img src="https://img.shields.io/github/forks/Kingbega/BARAKA-MD-V1?label=Fork&style=social">
+  <a href="https://github.com/yassini 9
+    994/BARAKA-MD-V1/fork">
+    <img src="https://img.shields.io/github/forks/yassin994/BARAKA-MD-V1?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/Kingbega/BARAKA-MD-V1/stargazers">
-    <img src="https://img.shields.io/github/stars/Kingbega/BARAKA-MD-V1?style=social">
+  <a href="https://github.com/yassin994/BARAKA-MD-V1/stargazers">
+    <img src="https://img.shields.io/github/stars/yassin994/BARAKA-MD-V1?style=social">
       
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## _`BARAKA-MD-V1 FEATURES`_ 🪶
+## _`YESSER-MD-x8 FEATURES`_ 🪶
 
 
 
@@ -89,7 +90,7 @@
 
 2. Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Kingbega/bega-media-v1' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/yassin994/yesser-media-x8' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 #### DEPLOY TO REPLIT
@@ -191,19 +192,19 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-### `𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 𝐆𝐨𝐝`🙏
-- Baraka-Bega
-- Ibrahim-Adams
+### `im born to win`👉😎
+- yesser-teach
+- BONIPHACE MD
 - Who Helping Me
 - Who Using This Bot
-- Text Me On WhatsApp [Wa-number](https://wa.me/255762190568)
+- Text Me On WhatsApp [Wa-number](https://wa.me/255621995482)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## 🌴 *`BOT-OWNER`*
-<a href="https://github.com/Kingbega"><img src="https://github.com/Kingbega.png" width="250" height="250" alt="Baraka"/></a>
+<a href="https://github.com/yassin994"><img src="https://github.com/yassin994.png" width="250" height="250" alt="yesser teach"/></a>
 
 
 ## 🌴 *`MAIN-DEV`*
@@ -218,4 +219,4 @@
 
 ## 🎥 _`WATCH-TUTORIAL`_
 
-[![TIKTOK](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://vm.tiktok.com/ZMrTBwVEW/)
+[YouTube](https://www.youtube.com/@Yesserboy92)
