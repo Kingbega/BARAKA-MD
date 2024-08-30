@@ -209,9 +209,6 @@
 ## 🌴 *`MAIN-DEV`*
 <a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech.png" width="250" height="250" alt="Ibrahim"/></a>
 
-## 🌴 *`CONTRIBUTOR`*
-<a href="https://github.com/mouricedevs"><img src="https://github.com/mouricedevs.png" width="250" height="250" alt="mouricedevs"/></a>
-
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -219,3 +216,6 @@
 ## 🎥`TUTORIAL`
 
 ## 🎥[![TIKTOK](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://vm.tiktok.com/ZMrTBwVEW/)
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
