@@ -7,7 +7,7 @@
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h">
-    <img alt=Support height="380" src="https://telegra.ph/file/346b2fb749a7255defe87.jpg"> 
+    <img alt=Support height="400" src="https://telegra.ph/file/346b2fb749a7255defe87.jpg"> 
     </p>
  
  
@@ -216,6 +216,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## 🎥 _`TUTORIAL`_
+## 🎥_`TUTORIAL`_
 
 ## 🎥[![TIKTOK](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://vm.tiktok.com/ZMrTBwVEW/)
