@@ -33,7 +33,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## _`BARAKA-MD-V1 FEATURES`_ 🪶
+## _`BARAKA-MD-V1 FEATURES`_ 🌐
 
 
 
@@ -55,7 +55,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## _`SESSION ID SITE`_ 👇👇
+## _`SESSION ID SITE`_ 🖐🤚
 
 
 1. Fork the repo
@@ -204,11 +204,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## 🌴 *`BOT-OWNER`*
+## 🌐 *`BOT-OWNER`*
 <a href="https://github.com/Kingbega"><img src="https://github.com/Kingbega.png" width="250" height="250" alt="Baraka"/></a>
 
 
-## 🌴 *`MAIN-DEV`*
+## 🌐 *`MAIN-DEV`*
 <a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech.png" width="250" height="250" alt="Ibrahim"/></a>
 
 
