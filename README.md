@@ -21,12 +21,11 @@
 
 
 
- <p align="left">
-  <a href="https://github.com/Kingbega/BARAKA-MD-V1/fork">
-    <img src="https://img.shields.io/github/forks/Kingbega/BARAKA-MD-V1?label=Fork&style=social">
-  <p align="left"> 
-  <a href="https://github.com/Kingbega/BARAKA-MD-V1/stargazers">
-    <img src="https://img.shields.io/github/stars/Kingbega/BARAKA-MD-V1?style=social">
+
+* [Follow Whatsapp Channel](https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h)
+
+* [Join my whatsapp Group](https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp)
+
       
 
 
