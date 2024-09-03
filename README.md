@@ -21,19 +21,7 @@
 
 
 
-
-* [FOLLOW MY WA-CHANEL](https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h)
-
-* [FOLLOW MY WA--GROUP](https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp)
-
-      
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
 ## `BARAKA-MD-V1 FEATURES` 
-
 
 
 
@@ -188,6 +176,12 @@
 
 ## [![TIKTOK](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://vm.tiktok.com/ZMrTBwVEW/)
 
+
+[FOLLOW MY WA-CHANEL](https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h)
+
+[FOLLOW MY WA--GROUP](https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp)
+
+      
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
