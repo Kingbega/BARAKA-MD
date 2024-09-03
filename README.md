@@ -22,9 +22,9 @@
 
 
 
-* [Follow Whatsapp Channel](https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h)
+* [FOLLOW MY WA-CHANEL](https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h)
 
-* [Join my whatsapp Group](https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp)
+* [FOLLOW MY WA--GROUP](https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp)
 
       
 
