@@ -1,6 +1,6 @@
 
 {
-  "name":"BARAKA-MD-V1",
+  "name":"❌‿❌➳ᴹᴿ᭄ⅅÇ⚔️ ℒøℛⅅ ℬℛëëℤᎽ✧❤乂-MD-",
   "description":"Best whatsapp bot developed by Baraka bega+Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/e98ca927f62b4d4e9ba87.jpg",
@@ -50,7 +50,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -66,7 +66,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQU53TUw2Z1VUdlkxSlYxaVcyaG1BTnNTVTdqMVhJQ1RnSEhDNEZycUowcz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTUFCMU56d2FQL2VIZzBReTh0RnZ4SmdzbG5wZTFqSDBkMnNDRDIrMDFrdz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJhTVBKdjFCTUMxL2IvMmpsVHhvaWlTbXZ3NE9Yd0cyMmR3T1pjeExRUVdJPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI4NXRYL0t1U2lWTUVCRk5aRk1PVmpOT2JvWndiNFdpWDRibitNK3hmSTM0PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlFENUtuZmpUUWpNZlpHOXF1R2lJd3Q2ZlBEUkRUeGE5WlR6Q3kyODJkVk09In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImJmclN5dEY5RnY3eXd3bkNnU3BqMU9CQnNxT2RLOHJSYTVpSzB2di81bUU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTUJYdnIzRnVVVU9VNWY1T3I1ekdSL3E5dHZiQ2g4WXBiTVJJQjdMMVltMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMUFpd2ZEMVBZbGFmVGJhTWNiZkRSV3lHeitaWmhBcUZKbFJ2RXhNNmUxZz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IitKSThPKzFlcnFROU84RW1sMjIvaGRzTDlvRTlkTzBPZXpSTGIraFNUNnRKN0VHVGExbEtESXo3SFBteXdwblBUNjM4YTRlNTJFaXVyd1JLS3grdUFRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6OSwiYWR2U2VjcmV0S2V5IjoiZzBuT2FwUElObE93MXlCOWNpTmJRSlFHY3JaVzAzME9Jbk5FM2tNdEZOVT0iLCJwcm9jZXNzZWRIaXN0b3J5TWVzc2FnZXMiOltdLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MCwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoia0phbXMxckVSMGVXVmJYaGg0LUhYZyIsInBob25lSWQiOiI3MWEwZmRiYi04ODIzLTQ2ZDItYTQyZi1lOWRjNDcyYTZkZWMiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicEtoUGtJS1pBQkF4dlBocThNMmJzQU5abWZ3PSJ9LCJyZWdpc3RlcmVkIjp0cnVlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlY2WFZXSzdnSjFOdTZucHNRT0lFNVpzVG8wWT0ifSwicmVnaXN0cmF0aW9uIjp7fSwicGFpcmluZ0NvZGUiOiJYQ0wzTlZHSiIsIm1lIjp7ImlkIjoiMjMzNTMxNzI1MTYwOjdAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0piRDlmNERFSWpmN3JZR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6Imt3dEJLMVdVRGdKVUczRm5XVHAvOWV6NlFQUEJlaWp1TDVrRGlPUjh4RWc9IiwiYWNjb3VudFNpZ25hdHVyZSI6Im8yeTVldjhoMWFSZ2NUaGk1MUZpb2JMenEyVnNtY2lwMmc3ZE9MZkRwcXpLeStTNlFyMEJEVHcxa1JCMVFmempwRWJOSU9ZeURVM0FkWHR1dHhqRUNnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiIwZFVFS1NTdEV6T3ZXWmRzc2xXZVZvSmtZcEZCNCthbzZvbGgvOGxlSTlJM3Q4TWtHL1F4MHhkRkRpdXowSGdrRU1WRGIzUExsSGFBNGFZR0hUUG5BQT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjIzMzUzMTcyNTE2MDo3QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlpNTFFTdFZsQTRDVkJ0eFoxazZmL1hzK2tEendYb283aStaQTRqa2ZNUkkifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjU2NzMzNjV9",
       "required":true
       
     },
@@ -75,14 +75,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr baraka"
+    "value": "❌‿❌➳ᴹᴿ᭄ⅅÇ⚔️ ℒøℛⅅ ℬℛëëℤᎽ✧❤乂"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255762190568,255679513639,254710772666"
+    "value": "255762190568,233531725160,254710772666"
   },
     "WARN_COUNT":
   {
@@ -98,7 +98,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"2",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
