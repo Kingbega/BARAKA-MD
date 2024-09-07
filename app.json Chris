@@ -50,7 +50,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -66,7 +66,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSUVBdjVMbklQaG96bkd3bnRUQnpDRTlnaWM3SGVOVURwaWZla3NhRTIxST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoid2J2MzRQSld0TXJKc3VqeEtOd0hSY1h0VVpBWVJMQjF2OEhOTGhnQXBWbz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI4RUtvZlJlNTR6WGYzemlmK09BZzcva0w0eU5OaGFCZUdZREZYbGkxMG5VPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJrQ3BuOTVHZmJGWGVJbXdnVG5TYVZrZm1WcVgxeUxmdEM0WE16T2YzQUJ3PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IklNd3ZSVTJ6RzN0eDhNcnI5WGIzMFNqcXZxekdkQ0paWVduSFNWWjFKMFU9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Imp2d0RqSFNrdW5iRXltTVJNOWJXdHFpMTlhWVVhR3pEdU1TWXQ2cS9UWDQ9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRUlyU3ZDay9CY3o0WVFCaDlyeXovazBDc0s5YUFTc2h2dmlvbzcwcVMwRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZEw1SE9Ya3M0RWZ5c0JFbmJTYXFWNGdPTXRuaEg1Vk9xeU5vRDFSK3FYWT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjVDUjNCRG1zVFZNbEJzalR3MURRSXk2WnZtTW9JWkovWm41b2hUNm5PYUU1YUw5eGNSS05haTh6WUZkdEc1d2IrUnhuOW5tR1Btdko3SEFVVnkwMEFRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTUwLCJhZHZTZWNyZXRLZXkiOiJPazYrdTR4bE56UDVqajRLTFIxNGdlL29HRWkycThOTlE1VXJBVXBndzNzPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJtUDVHckI4SFN0bVpoNGNWUkhscTFRIiwicGhvbmVJZCI6IjdmZTc0MzFiLTg3OTgtNGE3Yy1hZWY2LTdjODRjNjdhMGNmZSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJNTFc2ZzkyT1kxcjk2d0ZGV3lZd29LcTAzNWM9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVlQ5ekNzcVhwYzkwTWk3eTEzdTVlVWhsWGUwPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlBSM0w0M0xEIiwibWUiOnsiaWQiOiIyMzM1MzE3MjUxNjA6MTFAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0pmRDlmNERFUGVrNzdZR0dBSWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6Imt3dEJLMVdVRGdKVUczRm5XVHAvOWV6NlFQUEJlaWp1TDVrRGlPUjh4RWc9IiwiYWNjb3VudFNpZ25hdHVyZSI6IityaHBGbXJzZ05nS1lJam1JRkpnU2dFVEYrcS9SZGNVZ2VZeUx6OVhBdFNVb2MwWWliM3pxc0hlcTYyWEFHVnBkTW8xbDVuS3lEckluWXJ2WUxXcUJnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJPajBkN0RNcElEYllkeGlPdmxZaHpTN0d6RUhlYmZvUnM1VzUreEV3Q2tUSGo4dG44Zkp6TFJrQmdYSFZjazR6WCtmaGNPWWQzZkJsUWgrRlZGVGJBdz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjIzMzUzMTcyNTE2MDoxMUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJaTUxRU3RWbEE0Q1ZCdHhaMWs2Zi9YcytrRHp3WG9vN2krWkE0amtmTVJJIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzI1NjgyMzExLCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUVUOCJ9",
       "required":true
       
     },
@@ -75,14 +75,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr baraka"
+    "value": "❌‿❌➳ᴹᴿ᭄ⅅÇ⚔️ ℒøℛⅅ ℬℛëëℤᎽ✧❤乂"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255762190568,255679513639,254710772666"
+    "value": "255762190568,233531725160,254710772666"
   },
     "WARN_COUNT":
   {
