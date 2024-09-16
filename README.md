@@ -191,25 +191,13 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-#### TAP HERE 
+ ## Heroku Tutorial Video 👇
 
-<details close>
-<summary>Read More</summary>
+ 
+ <p align="left">
+<a href="https://www.tiktok.com/@barakabega?_t=8pmOjBUHYcI&_r=1"><img align="center" src="https://i.imgur.com/fYDmZGF.png" alt="DEPLOY" height="110" width="200" /></a>
 
-<br>
 
-* [`CHANNEL`](https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h)
-* [`WAGROUP`](https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp)
- </details>
-
-#### TAP HERE 
-
-<details close>
-<summary>Read More</summary>
-
-* [`WANUMBER`](https://wa.me/255762190568)
-
-* [`TUTORIAL`](https://www.tiktok.com/@barakabega?_t=8pmOjBUHYcI&_r=1)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
