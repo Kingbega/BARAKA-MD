@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://ibb.co/j5cKZ1G'/></a><a><img src='https://ibb.co/j5cKZ1G'/></a>
 
 
 <p align="center">                                              𝐁𝐀𝐑𝐀𝐊𝐀-𝐌𝐃-𝐕1 
@@ -15,7 +15,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD+MADE+IN+TANZANIA+🇹🇿♥️" alt="Typing SVG" /></a>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://ibb.co/j5cKZ1G'/></a><a><img src='https://ibb.co/j5cKZ1G'/></a>
 
 
  <p align="left">
@@ -26,11 +26,11 @@
     <img src="https://img.shields.io/github/stars/Kingbega/BARAKA-MD-V1?style=social">
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://ibb.co/j5cKZ1G'/></a><a><img src='https://ibb.co/j5cKZ1G'/></a>
 
 
 
-## `BARAKA-MD-V1 FEATURES` 
+## `𓄂𓆩𝞓𝙇𝙄 𝙍𝞓𝙕𝞓⤹³𝘽𝙊𝙏𖤍𓆪 FEATURES` 
 
 
 
@@ -48,7 +48,7 @@
 | Auto/View once commands     | remove photo and video from lock            | ✅           | 1.0    |
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://ibb.co/j5cKZ1G'/></a><a><img src='https://ibb.co/j5cKZ1G'/></a>
 
 
 ## `GET SESSION ID HERE` 
@@ -213,4 +213,4 @@
 <a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech.png" width="250" height="250" alt="Ibrahim"/></a>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://ibb.co/j5cKZ1G'/></a><a><img src='https://ibb.co/j5cKZ1G'/></a>
