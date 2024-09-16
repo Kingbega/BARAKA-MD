@@ -175,6 +175,7 @@
 
 
 
+
 #### DEPLOY TO REPLIT 
 
 
@@ -184,7 +185,7 @@
    <br>
 2. Now Deploy
     <br>
-<a href='https://replit.com/github/Kingbega/BARAKA-MD-V1target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-IMPORT-black?style=for-the-badge&logo=replit'/></a>
+<a href='https://replit.com/github/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-IMPORT-black?style=for-the-badge&logo=replit'/></a>
 
 ## [![TIKTOK](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.tiktok.com/@barakabega?_t=8pmOjBUHYcI&_r=1)
 
