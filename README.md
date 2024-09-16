@@ -191,7 +191,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-#### OPEN HERE 
+#### TAP HERE 
 
 <details close>
 <summary>Read More</summary>
@@ -202,7 +202,7 @@
 * [`WAGROUP`](https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp)
  </details>
 
-#### OPEN HERE 
+#### TAP HERE 
 
 <details close>
 <summary>Read More</summary>
@@ -213,6 +213,11 @@
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+
+
 
 
 ## `BOT-OWNER`
