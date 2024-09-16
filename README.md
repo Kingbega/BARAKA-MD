@@ -1,9 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center">                                              𝐁𝐀𝐑𝐀𝐊𝐀-𝐌𝐃-𝐕1 
-
-
+<p align="center">                                              𓄂𓆩𝞓𝙇𝙄 𝙍𝞓𝙕𝞓⤹³𝘽𝙊𝙏𖤍𓆪
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h">
@@ -30,7 +28,7 @@
 
 
 
-## `BARAKA-MD-V1 FEATURES` 
+## `𓄂𓆩𝞓𝙇𝙄 𝙍𝞓𝙕𝞓⤹³𝘽𝙊𝙏𖤍𓆪 FEATURES` 
 
 
 
