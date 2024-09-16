@@ -198,17 +198,4 @@
 <a href="https://www.tiktok.com/@barakabega?_t=8pmOjBUHYcI&_r=1"><img align="center" src="https://i.imgur.com/ZCtwhqw.jpeg.png" alt="DEPLOY" height="110" width="200" /></a>
 
 
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-## `BOT-OWNER`
-<a href="https://github.com/Kingbega"><img src="https://github.com/Kingbega.png" width="250" height="250" alt="Baraka"/></a>
-
-
-## `MAIN-DEV`
-<a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech.png" width="250" height="250" alt="Ibrahim"/></a>
-
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
