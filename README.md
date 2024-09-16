@@ -202,14 +202,9 @@
 * [`WAGROUP`](https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp)
  </details>
 
+* [`WANUMBER`](https://wa.me/255762190568)
 
-### `𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 𝐆𝐨𝐝`🙏
-- Baraka-Bega
-- Ibrahim-Adams
-- Who Helping Me
-- Who Using This Bot
-- Text Me On WhatsApp [Wa-number](https://wa.me/255762190568)
-
+* [`TUTORIAL`](https://www.tiktok.com/@barakabega?_t=8pmOjBUHYcI&_r=1)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
