@@ -201,9 +201,7 @@
 * [`CHANNEL`](https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h)
 * [`WAGROUP`](https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp)
  </details>
-
 * [`WANUMBER`](https://wa.me/255762190568)
-
 * [`TUTORIAL`](https://www.tiktok.com/@barakabega?_t=8pmOjBUHYcI&_r=1)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
