@@ -195,7 +195,7 @@
 
  
  <p align="left">
-<a href="https://www.tiktok.com/@barakabega?_t=8pmOjBUHYcI&_r=1"><img align="center" src="https://i.imgur.com/babTrtw.jpeg.png" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://www.tiktok.com/@barakabega?_t=8pmOjBUHYcI&_r=1"><img align="center" src="https://i.imgur.com/ZCtwhqw.jpeg.png" alt="DEPLOY" height="110" width="200" /></a>
 
 
 
