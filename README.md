@@ -215,12 +215,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
 ## `BOT-OWNER`
 <a href="https://github.com/Kingbega"><img src="https://github.com/Kingbega.png" width="250" height="250" alt="Baraka"/></a>
 
