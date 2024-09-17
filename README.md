@@ -199,3 +199,32 @@
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+
+[FOLLOW MY WA-CHANEL](https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h)
+
+[FOLLOW MY WA---GROUP](https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp)
+     
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+### `𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 𝐆𝐨𝐝`🙏
+- Baraka-Bega
+- Ibrahim-Adams
+- Who Helping Me
+- Who Using This Bot
+- Text Me On WhatsApp [Wa-number](https://wa.me/255762190568)
+
+
+## `BOT-OWNER`
+<a href="https://github.com/Kingbega"><img src="https://github.com/Kingbega.png" width="250" height="250" alt="Baraka"/></a>
+
+
+## `MAIN-DEV`
+<a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech.png" width="250" height="250" alt="Ibrahim"/></a>
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
