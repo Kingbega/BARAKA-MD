@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: jarvis-md
+    env: node
+    branch: main
+    repo: https://github.com/Loki-Xer/jarvis-md.git
+    buildCommand: npm install
+    startCommand: npm start
+    plan: free
+    autoDeploy: false
+    envVars:
+      - key: SESSION_ID
+        sync: false
+      - key: DATABASE_URL
+        sync: false

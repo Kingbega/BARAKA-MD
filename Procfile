@@ -1,0 +1,2 @@
+run:
+   worker: npm start
