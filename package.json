@@ -4,8 +4,8 @@
     "description": "A simple WhatsApp Bot Based On WhiskeySockets/Baileys",
     "main": "index.js",
     "scripts": {
-        "start": "pm2 start . --attach --name Baraka-Md",
-        "stop": "pm2 stop Baraka-Md",
+        "start": "pm2 start . --attach --name Jarvis-md",
+        "stop": "pm2 stop Jarvis-md",
         "postinstall": "yarn global add pm2"
     },
     "engines": {
