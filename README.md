@@ -20,7 +20,7 @@
 
  <p align="left">
   <a href="https://github.com/Kingbega/Baraka-Md/fork">
-    <img src="https://img.shields.io/github/forks/Kingbega/BARAKA-MD-V1?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Kingbega/Baraka-Md?label=Fork&style=social">
   <p align="left"> 
   <a href="https://github.com/Kingbega/Baraka-Md/stargazers">
     <img src="https://img.shields.io/github/stars/Kingbega/Baraka-Md?style=social">
