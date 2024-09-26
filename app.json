@@ -1,0 +1,74 @@
+{
+ "name": "Baraka-Md",
+ "description": "A WhatsApp bot application",
+ "logo": "https://avatars.githubusercontent.com/u/176591771?v=4",
+ "repository": "https://github.com/yourusername/Kingbega",
+ "keywords": ["node", "whatsapp", "bot"],
+ "success_url": "/",
+ "stack": "container",
+ "env": {
+  "SESSION_ID": {
+   "description": "SESSION ID FOR BOT",
+   "required": true,
+   "value": "Session~"
+  },
+  "BOT_INFO": {
+   "description": "BOT INFO",
+   "required": true,
+   "value": "ᴀsᴛʀᴏ;ғxᴏᴘ-ᴍᴅ;https://raw.githubusercontent.com/Kingbega/Baraka-Md/master/media/images/thumb.jpg"
+  },
+  "SUDO": {
+   "description": "SUDO NUMBERS (comma-separated)",
+   "required": true,
+   "value": "255762190568,255679513639"
+  },
+  "AUTHOR": {
+   "description": "STICKER AUTHOR",
+   "required": false,
+   "value": "Kingbega"
+  },
+  "PACKNAME": {
+   "description": "STICKER PACKNAME",
+   "required": false,
+   "value": "BARAKA-MD"
+  },
+  "AUTO_READ": {
+   "description": "AUTO READ MSGS",
+   "required": false,
+   "value": "false"
+  },
+  "RMBG_KEY": {
+   "description": "REMOVE BG API KEY",
+   "required": false,
+   "value": ""
+  },
+  "HEROKU_APP_NAME": {
+   "description": "HEROKU APP NAME (same as above)",
+   "required": true
+  },
+  "HEROKU_API_KEY": {
+   "description": "HEROKU API KEY (used for Heroku variables)",
+   "required": true
+  }
+ },
+ "formation": {
+  "worker": {
+   "quantity": 1,
+   "size": "eco"
+  }
+ },
+ "buildpacks": [
+  {
+   "url": "heroku/nodejs"
+  },
+  {
+   "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+  },
+  {
+   "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+  },
+  {
+   "url": "https://github.com/pathwaysmedical/heroku-buildpack-tesseract"
+  }
+ ]
+}
