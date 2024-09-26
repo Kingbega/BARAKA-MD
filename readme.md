@@ -119,6 +119,8 @@
 <a href='https://baraka-v2-code-82edd20fc50d.herokuapp.com/code' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 #### DEPLOY TO PANEL 
 
