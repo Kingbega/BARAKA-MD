@@ -52,13 +52,13 @@ async function downloadSessionData() {
         console.error('Please add your session to SESSION_ID env !!');
         return false;
     }
-    const sessdata = config.SESSION_ID.split("Bmw-xmdπ")[1];
+    const sessdata = config.SESSION_ID.split("Bmwmd$")[1];
     const url = `https://pastebin.com/raw/${sessdata}`;
     try {
         const response = await axios.get(url);
         const data = typeof response.data === 'string' ? response.data : JSON.stringify(response.data);
         await fs.promises.writeFile(credsPath, data);
-        console.log("🌏BMW MD ONLINE🌏");
+        console.log("🌏BARAKA MD ONLINE🌏");
         return true;
     } catch (error) {
        // console.error('Failed to download session data:', error);
@@ -70,13 +70,13 @@ async function start() {
     try {
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version, isLatest } = await fetchLatestBaileysVersion();
-        console.log(`Bmw is running on v${version.join('.')}, isLatest: ${isLatest}`);
+        console.log(`Baraka is running on v${version.join('.')}, isLatest: ${isLatest}`);
         
         const Matrix = makeWASocket({
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["Ethix-MD", "safari", "3.3"],
+            browser: ["BMW-MD", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
@@ -95,7 +95,7 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("BMW MD CONNECTED SUCCESSFULLY ✅"));
+                    console.log(chalk.green("BARAKA MD CONNECTED SUCCESSFULLY ✅"));
                     Matrix.sendMessage(Matrix.user.id, { text: `╭─────────────━┈⊷\n│ *ᴀɪ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ*\n╰─────────────━┈⊷\n\n╭─────────────━┈⊷\n│🤖 ʙᴏᴛ ɴᴀᴍᴇ: *ʙᴍᴡ ᴍᴅ*\n│👨‍💻 ᴏᴡɴᴇʀ : *sɪʀ ɪʙʀᴀʜɪᴍ*\n╰─────────────━┈⊷\n\n*Join Whatsapp Channel For Updates*\n_https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y_` });
                     initialConnection = false;
                 } else {
@@ -143,7 +143,7 @@ async function init() {
     } else {
         const sessionDownloaded = await downloadSessionData();
         if (sessionDownloaded) {
-            console.log("BMW MD RUNNING...⏳");
+            console.log("BARAKA MD RUNNING...⏳");
             await start();
         } else {
             console.log("Session id error ❌");
@@ -160,5 +160,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`Bmw daily users ${PORT}`);
+    console.log(`Baraka daily users ${PORT}`);
 });
