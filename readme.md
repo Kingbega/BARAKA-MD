@@ -51,7 +51,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## `HEROKU SETUP` 
+## `NORMAL MENU SETUP` 
 
 
 1. Fork the repo
@@ -109,9 +109,11 @@
     
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## `PANEL SETUP`
+## `BUTTON MENU SETUP`
 
 
 1. Fork the repo
