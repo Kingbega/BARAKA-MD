@@ -174,7 +174,7 @@
 
 
 <a href="https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Official -Groouup -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Official -Grouup -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
