@@ -56,7 +56,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Kingbega/BARAKA-MD-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Kingbega/BARAKA-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. Get session id by (SCANNING QR1)
@@ -82,7 +82,7 @@
 
 2. Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Kingbega/Kingbega/bega-authenticator' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Kingbega/bega-authenticator' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 #### DEPLOY TO RENDER
