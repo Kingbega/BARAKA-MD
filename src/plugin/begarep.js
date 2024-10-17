@@ -135410,7 +135410,7 @@ const handleRepoCommand = async (_0x91f700, _0xd7e601, _0x521fe3) => {
                 'name': "cta_url",
                 'buttonParamsJson': JSON.stringify({
                   'display_text': "Contact Owner",
-                  'url': "https://wa.me/+255762190568?text=Hi Baraka🍀"
+                  'url': "https://wa.me/+255762190568?text=Hello mr baraka👋"
                 })
               }, {
                 'name': "cta_url",
