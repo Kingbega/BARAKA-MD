@@ -12,7 +12,7 @@
  
  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD+MADE+IN+TANZANIA+🍀" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD+MADE+IN+TANZANIA+🇹🇿" alt="Typing SVG" /></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -30,7 +30,7 @@
 
 
 
-## `BARAKA-MD-BOT FEATURES` 
+## `BARAKA-MD FEATURES` 
 
 
 
