@@ -375,7 +375,7 @@ const searchAPK = async (_0x5dc97, _0x5e1699) => {
               }),
               'header': proto.Message.InteractiveMessage.Header.create({
                 ...(await prepareWAMessageMedia(_0x1183b8, _0x114217)),
-                'title': "Baraka MD apk downloader",
+                'title': "BARAKA MD APP DOWNLOADER",
                 'gifPlayback': true,
                 'subtitle': "Select An App",
                 'hasMediaAttachment': false
@@ -384,10 +384,10 @@ const searchAPK = async (_0x5dc97, _0x5e1699) => {
                 'buttons': [{
                   'name': 'single_select',
                   'buttonParamsJson': JSON.stringify({
-                    'title': "Select an App",
+                    'title': "🔖 Select an App",
                     'sections': [{
-                      'title': "Top 10 Apk Results",
-                      'highlight_label': "Top 10",
+                      'title': "😎 Top 10 APK Results",
+                      'highlight_label': "🤩 Top 10",
                       'rows': _0xc08495
                     }]
                   })
@@ -467,4 +467,4 @@ function _0x20bc65(_0xeae585) {
       _0x14cc15(0x0);
     }
   } catch (_0x260704) {}
-                 }
+  }
