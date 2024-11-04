@@ -16,18 +16,14 @@
 
 
  <p align="left">
-  <a href="https://github.com/Kingbega/BARAKA-MD-V1/fork">
-    <img src="https://img.shields.io/github/forks/Kingbega/BARAKA-MD-V1?label=Fork&style=social">
+  <a href="https://github.com/Kingbega/BARAKA-MD/fork">
+    <img src="https://img.shields.io/github/forks/Kingbega/BARAKA-MD?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/Kingbega/BARAKA-MD-V1/stargazers">
-    <img src="https://img.shields.io/github/stars/Kingbega/BARAKA-MD-V1?style=social">
+  <a href="https://github.com/Kingbega/BARAKA-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/Kingbega/BARAKA-MD?style=social">
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
-## `BARAKA-MD FEATURES` 
 
 
 | Feature                          | Description                                             | Available    | Version    |
@@ -42,7 +38,6 @@
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 1.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 1.0        |
 | Auto/View once commands     | remove photo and video from lock            | ✅           | 1.0    |
-
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
