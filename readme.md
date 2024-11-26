@@ -1,5 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-                                               
+<a><img src='https://i.imgur.com/LyHic3i.gif'/</a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/</a>                                              
 
 </p>
 <p align="center"> 
@@ -24,7 +25,8 @@
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
@@ -39,10 +41,10 @@
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 1.0        |
 | Auto/View once commands     | remove photo and video from lock            | ✅           | 1.0    |
 
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## `BUTTON MENU SETUP`
 
@@ -118,7 +120,7 @@
 
 2. Get session id by (SCANNING QR1)
     <br>
-<a href='https://normal-sessions2-64777ac0658c.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://qr-code1-230e0301b3e5.herokuapp.com/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. Get session id by (PAIRING CODE2)
@@ -162,6 +164,16 @@
 <a href="https://www.instagram.com/baraka_bega/profilecard/?igsh=MThjeDNocGYzZWZlZQ=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
+#### DEPLOY TO REPLIT
+
+1. If You don't have an account in Replit. Create a account.
+    <br>
+<a href='https://replit.com/signup' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+
+2. Now Deploy
+    <br>
+    <a href='https://repl.it/github/Kingbega/BARAKA-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
