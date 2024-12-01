@@ -1,29 +1,4 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-                                              
-
-</p>
-<p align="center"> 
-  <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h">
-    <img alt=Support height="400" src="https://files.catbox.moe/xqyz9o.jpg"> 
-    </p>
- 
- 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD+MADE+IN+TANZANIA+🇹🇿" alt="Typing SVG" /></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
- <p align="left">
-  <a href="https://github.com/Kingbega/BARAKA-MD/fork">
-    <img src="https://img.shields.io/github/forks/Kingbega/BARAKA-MD?label=Fork&style=social">
-  <p align="left"> 
-  <a href="https://github.com/Kingbega/BARAKA-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/Kingbega/BARAKA-MD?style=social">
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
