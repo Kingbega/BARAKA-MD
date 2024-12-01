@@ -158,6 +158,8 @@
     <br>
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 <p align="center">
 <a href="https://wa.me/255762190568"><img src="https://img.shields.io/badge/whatsapp-ff0000?style=for-the-badge&logo=whatsapp&logoColor=ff000000&link=https://wa.me/255762190568" /><br>
