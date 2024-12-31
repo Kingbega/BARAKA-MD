@@ -1,6 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## Note 📝 If you deploy this bot on heroku make sure u leave a space in writing menu or any command like [ . menu ] otherwise the bot won't respond and u can deploy it in any platform don't forget to fork and give a star
+Note 📝 If you deploy this bot on heroku make sure u leave a space in writing menu or anycommand like [ . menu ] [. ping ] otherwise the bot won't respond and u can deploy it in any platform don't forget to fork and give a star
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 
